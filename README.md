@@ -1,7 +1,11 @@
 # 精绝绘影：中文文本插图生成模型
-精绝绘影是由 熊吉祥，黄泓森，陈启源 @ 华中师范大学 发起的中文文本插图生成项目，[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授是本项目的指导老师。同时它也是基于[骆驼](https://github.com/LC1332/Luotuo-Chinese-LLM)语言模型的工作。
+精绝绘影是由 熊吉祥，黄泓森，[陈启源](https://qiyuan-chen.github.io/) @ 华中师范大学 发起的中文文本插图生成项目，[杨海彤](http://cs.ccnu.edu.cn/info/1158/2237.htm)副教授是本项目的指导老师。同时它也是基于[骆驼](https://github.com/LC1332/Luotuo-Chinese-LLM)语言模型的工作。
 
 我们将模型取名为精绝绘影，是因为我们的项目属于[丝绸之路](https://github.com/LC1332/luotuo-silk-road)项目，精绝国也是丝绸之路上的要地。
+
+## 新闻
+[2023-4-15] 我们已经完成第一版的训练与微调和gradio网页的搭建。
+
 
 
 ## 参考
