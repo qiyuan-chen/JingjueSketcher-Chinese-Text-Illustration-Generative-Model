@@ -1,2 +1,4 @@
-# JingjueSketcher-Chinese-Text-Illustration-Generator
-JingjueSketcher（精绝绘影） is an open-source Chinese text illustration generator project. You can input long Chinese texts, and the model will automatically generate matching illustrations. This project was established by 熊吉祥, 黄泓森, 陈启源 @ 华中师范大学. JingjueSketcher is belongs to Luotuo(骆驼), an open sourced Chinese-LLM project.
+# 精绝绘影：中文文本插图生成模型
+精绝绘影是由 熊吉祥，黄泓森，陈启源 @ 华中师范大学 发起的中文文本插图生成项目。同时它也是基于[骆驼](https://github.com/LC1332/Luotuo-Chinese-LLM)语言模型的工作。
+
+我们将我们的模型取名为精绝绘影，是因为我们的项目属于[丝绸之路](https://github.com/LC1332/luotuo-silk-road)项目，精绝国也是丝绸之路上的要地。
