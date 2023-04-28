@@ -1,0 +1,6 @@
+{
+    "ListenIP": "127.0.0.1",
+    "GradioPort": "8080",
+    "TuoLingPort": "9000",
+    "DiffusionPort": "9001"
+}
